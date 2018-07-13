@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="índice.png">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.png">
 
 # Claro
 "Cantai ao Senhor um cântico novo, 
