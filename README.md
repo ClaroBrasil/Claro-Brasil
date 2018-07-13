@@ -1,4 +1,5 @@
 <link rel="shortcut icon" type="image/x-icon" href="índice.png">
+
 # Claro
 "Cantai ao Senhor um cântico novo, 
  cantai ao Senhor, todos os moradores da terra." Salmos 96:1
