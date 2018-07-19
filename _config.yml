@@ -1,6 +1,6 @@
 name: NETCombo
-title: Claro Brasil
+title: NEWDATACENTER 3.0
 url: https://clarobrasil.github.io
 exclude: clarobrasil.github.io
-set color: #ff00000
+set color: ff00000
 theme: jekyll-theme-leap-day
