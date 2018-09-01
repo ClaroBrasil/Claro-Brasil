@@ -1,4 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+# Atenção - Instrução para corrigir erro da playlist em branco
+Caso a playlist esteja em branco, clique com botão direito nela e depois "atualizar frame"
 
 # Claro
 "Aquele que confia nas suas riquezas, cairá; mas os justos reverdecerão como a folhagem" Provérbios 11:28
