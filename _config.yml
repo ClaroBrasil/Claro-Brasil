@@ -1,5 +1,6 @@
 name: NETCombo
 title: BackOffice Claro
+description: Caso a playlist esteja em branco, clique com botão direito nela e depois "atualizar frame"
 url: https://clarobrasil.github.io
 exclude: clarobrasil.github.io
 set color: ff00000
